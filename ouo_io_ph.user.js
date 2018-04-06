@@ -2,13 +2,18 @@
 // @name        ouo.io block-bypass 4 ph
 // @namespace   http://ronanj.co.nr
 // @description Redirect ouo.io to ph-safe ouo
-// @author	Ronanj T. Molina <rj.molina13@gmail.com>
+// @copyright	2018, Ronanj Molina (ronanj.co.nr)
+// @author	rjmolina13 - Ronanj T. Molina <rj.molina13@gmail.com>
+// @homepageURL	https://github.com/rjmolina13/ouo.io-ph
+// @supportURL	https://github.com/rjmolina13/ouo.io-ph
 // @match    *://ouo.io/*
 // @run-at   document-start
 // @grant    none
 // @version     0.1
 // @icon	http://ouo.press/blog/favicon.png
 // @license https://creativecommons.org/licenses/by-sa/4.0/
+// @updateURL	https://raw.githubusercontent.com/rjmolina13/ouo.io-ph/master/ouo_io_ph.js
+// @collaborator rjmolina13
 // ==/UserScript==
  
 
