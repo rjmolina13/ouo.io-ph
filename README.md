@@ -19,7 +19,7 @@ Now, I've built a small tool to help you guys, it doesn't require you to change 
 > ##### Note: After installation (which requires restarting your browser), you are now ready to install userscripts.
 
 ##### Step 2: UserScript
-* [Install](https://raw.githubusercontent.com/rjmolina13/ouo.io-ph/master/ouo_io_ph.js) *from this repo*
+* [Install](https://github.com/rjmolina13/ouo.io-ph/raw/master/ouo_io_ph.user.js) *from this repo*
 * [Install](https://openuserjs.org/install/rjmolina13/ouo.io_block-bypass_4_ph.user.js) *from openuserjs.org*
 
 ### Features
