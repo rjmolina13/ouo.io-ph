@@ -10,8 +10,8 @@
 // @run-at   document-start
 // @grant    none
 // @version     0.1
-// @icon	http://ouo.press/blog/favicon.png
-// @license https://creativecommons.org/licenses/by-sa/4.0/
+// @icon	https://raw.githubusercontent.com/rjmolina13/ouo.io-ph/master/favicon.png
+// @license MIT
 // @updateURL	https://raw.githubusercontent.com/rjmolina13/ouo.io-ph/master/ouo_io_ph.js
 // @collaborator rjmolina13
 // ==/UserScript==
