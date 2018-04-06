@@ -8,7 +8,7 @@
 // @grant    none
 // @version     0.1
 // @icon	http://ouo.press/blog/favicon.png
-// @license         GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @license https://creativecommons.org/licenses/by-sa/4.0/
 // ==/UserScript==
  
 
